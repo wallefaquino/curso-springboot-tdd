@@ -19,7 +19,7 @@ JUnit 5
 Travis CI
 
 ### Run
-Git Clone https://github.com/wallefaquino/curso-springboot-tdd.git
+git clone https://github.com/wallefaquino/curso-springboot-tdd.git
 
 cd curso-springboot-tdd
 
