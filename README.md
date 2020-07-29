@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/wallefaquino/curso-springboot-tdd.svg?branch=master)](https://travis-ci.org/wallefaquino/curso-springboot-tdd)
-
+[![codecov](https://codecov.io/gh/wallefaquino/curso-springboot-tdd/branch/master/graph/badge.svg)](https://codecov.io/gh/wallefaquino/curso-springboot-tdd)
 ### Stack
 
 Spring Boot
